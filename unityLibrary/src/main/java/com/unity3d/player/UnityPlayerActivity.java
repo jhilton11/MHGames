@@ -102,6 +102,8 @@ public class UnityPlayerActivity extends Activity implements IUnityPlayerLifecyc
         }
     }
 
+    
+
     // This ensures the layout will be correct.
     @Override public void onConfigurationChanged(Configuration newConfig)
     {
